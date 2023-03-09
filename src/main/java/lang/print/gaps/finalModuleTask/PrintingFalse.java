@@ -5,6 +5,6 @@ public class PrintingFalse {
         int first = 9;
         int second = -17;
         boolean boolVar = (first == second);
-		System.out.println(boolVar);
+	System.out.println(boolVar);
     }
 }
