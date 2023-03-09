@@ -13,7 +13,6 @@ public class NumberReverter {
 	}
 	System.out.println(reversed);
     }
-}
 
     public static Object checkLenghthDigit(int number) {
 	int length = 0;
@@ -24,3 +23,4 @@ public class NumberReverter {
 	}
 	return length;
     }
+}
