@@ -5,5 +5,8 @@ public class NumbersPrinter {
         if (number >= 0) {
 	    System.out.println(number);
         }
+	else {
+	    System.out.println("false");
+	}
     }
 }
